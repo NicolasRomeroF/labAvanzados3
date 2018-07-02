@@ -10,13 +10,18 @@
             },
             "includePath": [
                 "${workspaceFolder}/**",
-                "/usr/include",
-                "/usr/include",
                 "/usr/include/x86_64-linux-gnu/bits",
-                "/usr/include/c++/5/tr1"
+                "/usr/include/c++/5",
+                "/usr/lib/gcc/x86_64-linux-gnu",
+                "/usr/lib/gcc/x86_64-linux-gnu/5",
+                "/usr/lib/gcc/x86_64-linux-gnu/5/include",
+                "/usr/local/include",
+                "/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed",
+                "/usr/include/x86_64-linux-gnu",
+                "/usr/include"
             ],
             "defines": [],
-            "compilerPath": "/usr/bin/gcc",
+            "compilerPath": "/usr/lib/gcc/x86",
             "cStandard": "c11",
             "cppStandard": "c++17",
             "intelliSenseMode": "clang-x64"

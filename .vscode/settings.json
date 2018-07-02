@@ -1,3 +1,9 @@
 {
-    "C_Cpp.intelliSenseEngineFallback": "Enabled"
+    "C_Cpp.intelliSenseEngineFallback": "Enabled",
+    "files.associations": {
+        "limits.h": "c",
+        "climits": "c",
+        "stdio.h": "c",
+        "cstdio": "c"
+    }
 }
